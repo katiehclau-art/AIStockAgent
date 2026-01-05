@@ -3,7 +3,7 @@ An AI Stock Agent that checks stock prices, stock news, and more related informa
 
 The AI Agent is built with Lanchain/Langraph, and uses OpenAI LLM, and live data from yahoo finance.
 
-## Create and activate the virtual environment:
+## Create and activate the virtual environment in MacOS:
 ```
 python3 -m venv .venv
 source .venv/bin/activate
