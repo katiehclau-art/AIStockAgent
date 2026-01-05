@@ -5,7 +5,6 @@ from langchain_core.prompts import PromptTemplate
 from langgraph.checkpoint.memory import InMemorySaver
 import yfinance as yf
 import python_weather
-import asyncio
 import os
 
 # openai_api_key = os.getenv("OPENAI_API_KEY")
